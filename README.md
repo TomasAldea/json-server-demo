@@ -7,7 +7,7 @@ npm install -g json-server
 
 ### Start JSON Server
 ```
-json-server --watch db.json
+json-server --watch api/db.json --port 8000
 ```
 
 #### Documentation
