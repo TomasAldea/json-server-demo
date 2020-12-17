@@ -1,0 +1,30 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Barcelona"
+    },
+    {
+      "id": 2,
+      "name": "Paris"
+    },
+    {
+      "id": 3,
+      "name": "Berlin"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "WebDev"
+    },
+    {
+      "id": 2,
+      "name": "UX"
+    },
+    {
+      "id": 3,
+      "name": "Data"
+    }
+  ]
+}
